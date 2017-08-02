@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Angel Guardian</string>
+    <string name="userid_text">User ID</string>
+    <string name="password_text">Password</string>
+    <string name="deviceid_text">Device ID</string>
+    <string name="deviceids_text">Device IDs in Household</string>
+    <string name="fetch_text">Fetch</string>
+    <string name="clear_text">Clear</string>
+    <string name="location_map">Map</string>
+    <string name="account_text">Account</string>
+    <string name="welcome_message">Welcome to Network Connect!
+        Click FETCH to fetch the first 500 characters of raw HTML from www.google.com.
+    </string>
+    <string name="connection_error">Connection error.</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="locate_devices">Locate Devices</string>
+</resources>
