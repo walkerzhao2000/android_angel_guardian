@@ -13,7 +13,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.skydeck.angelguardianv2.logger;
+package com.skydeck.angelguardian.logger;
 
 /**
  * Simple {@link LogNode} filter, removes everything except the message.

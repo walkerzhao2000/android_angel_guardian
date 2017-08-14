@@ -29,7 +29,7 @@
  * limitations under the License.
  */
 
-package com.skydeck.angelguardianv2.logger;
+package com.skydeck.angelguardian.logger;
 
 import android.graphics.Typeface;
 import android.os.Bundle;
