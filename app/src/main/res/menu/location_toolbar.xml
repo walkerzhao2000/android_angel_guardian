@@ -1,0 +1,22 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.skydeck.angelguardian.LocationActivity">
+    <item
+        android:id="@+id/account_action"
+        android:orderInCategory="100"
+        android:title="@string/account_text"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/fetch_action"
+        android:title="@string/fetch_text"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/clear_action"
+        android:title="@string/clear_text"
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:id="@+id/map_action"
+        android:title="@string/location_map"
+        app:showAsAction="ifRoom|withText" />
+</menu>
